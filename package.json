@@ -19,6 +19,7 @@
         "vue": "^2.5.7"
     },
     "dependencies": {
-        "acorn": "^5.7.4"
+        "acorn": "^5.7.4",
+        "minimist": "^1.2.5"
     }
 }
